@@ -1,4 +1,4 @@
-![CI](https://github.com/brettlyons/secure-ci-starter/actions/workflows/security.yml/badge.svg)
+![CI](https://github.com/brettlyons/sec-ci-starter-01/actions/workflows/security.yml/badge.svg)
 
 # sec-ci-starter-01
 
