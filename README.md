@@ -1,3 +1,5 @@
+![CI](https://github.com/brettlyons/secure-ci-starter/actions/workflows/security.yml/badge.svg)
+
 # sec-ci-starter-01
 
 Small demo of a security gate in CI using GitHub Actions.
